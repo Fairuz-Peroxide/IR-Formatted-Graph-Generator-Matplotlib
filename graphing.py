@@ -18,6 +18,5 @@ def plot_compound(data, compound, color, title):
     plt.show()
 
 
-plot_compound(data, 'Bromobenzene', 'green', 'IR Spectrum of Bromobenzene')
-#plot_compound(data, 'Benzoic Acid', 'blue', 'IR Spectrum of Benzoic Acid')
-#plot_compound(data, 'Ethyl Benzoate', 'red', 'IR Spectrum of Ethyl Benzoate')
+plot_compound(data, 'COMPOUND', 'COLOR', 'TITLE')
+#e.g. plot_compound(data, 'Methylbenzene', 'green', 'IR Spectrum of Methylbenzene')
